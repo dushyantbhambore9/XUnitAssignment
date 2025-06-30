@@ -1,0 +1,4 @@
+﻿"",400,Password cannot be empty,false
+nocaps123,400,Password must contain at least one uppercase letter,false
+NOdigits!,400,Password must contain at least one number,false
+Valid123,200,Password is valid,true

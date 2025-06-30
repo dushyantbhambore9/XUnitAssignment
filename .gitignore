@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+out/
+Generated\ Files/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core secrets
+secrets.json
+
+# ASP.NET Core user-specific files
+*.db
+*.db-shm
+*.db-wal
+
+# Publish directory
+wwwroot/dist/
+publish/
+*.Publish.xml
+
+# Logs
+*.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.deps.json
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+*.snupkg
+
+# Resharper
+*.DotSettings.user
+
+# Node (if you're using npm in your Blazor WebAssembly)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio
+.vs/
